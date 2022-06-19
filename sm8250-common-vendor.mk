@@ -106,7 +106,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm8250-common/proprietary/vendor/bin/ATFWD-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/ATFWD-daemon \
     vendor/xiaomi/sm8250-common/proprietary/vendor/bin/adpl:$(TARGET_COPY_OUT_VENDOR)/bin/adpl \
     vendor/xiaomi/sm8250-common/proprietary/vendor/bin/adsprpcd:$(TARGET_COPY_OUT_VENDOR)/bin/adsprpcd \
-    vendor/xiaomi/sm8250-common/proprietary/vendor/bin/batterysecret:$(TARGET_COPY_OUT_VENDOR)/bin/batterysecret \
     vendor/xiaomi/sm8250-common/proprietary/vendor/bin/cdsprpcd:$(TARGET_COPY_OUT_VENDOR)/bin/cdsprpcd \
     vendor/xiaomi/sm8250-common/proprietary/vendor/bin/cnd:$(TARGET_COPY_OUT_VENDOR)/bin/cnd \
     vendor/xiaomi/sm8250-common/proprietary/vendor/bin/cnss-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/cnss-daemon \
@@ -221,7 +220,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm8250-common/proprietary/vendor/etc/init/imsqmidaemon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/imsqmidaemon.rc \
     vendor/xiaomi/sm8250-common/proprietary/vendor/etc/init/imsrcsd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/imsrcsd.rc \
     vendor/xiaomi/sm8250-common/proprietary/vendor/etc/init/init-qcril-data.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init-qcril-data.rc \
-    vendor/xiaomi/sm8250-common/proprietary/vendor/etc/init/init.batterysecret.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.batterysecret.rc \
     vendor/xiaomi/sm8250-common/proprietary/vendor/etc/init/init.lmi.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.lmi.rc \
     vendor/xiaomi/sm8250-common/proprietary/vendor/etc/init/init.mi_thermald.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.mi_thermald.rc \
     vendor/xiaomi/sm8250-common/proprietary/vendor/etc/init/init.time_daemon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.time_daemon.rc \
